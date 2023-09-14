@@ -1,3 +1,5 @@
+# Write the Socket program for Server side and Client Side to have multiple clients. One Client can communicate (chat) with another client using server. 
+
 import socket
 import threading
 
